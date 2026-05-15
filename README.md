@@ -7,3 +7,4 @@ Base: the home of DeFi innovation.
 Secure, scalable, and Coinbase-backed.
 Developer-friendly
 Onchain is the new online
+Stay based. Stay onchain
