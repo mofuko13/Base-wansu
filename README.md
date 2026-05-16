@@ -9,3 +9,4 @@ Developer-friendly
 Onchain is the new online
 Stay based. Stay onchain
 Base: built for everyone, owned by no one
+Your onchain life starts here.
