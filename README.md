@@ -11,3 +11,4 @@ Stay based. Stay onchain
 Base: built for everyone, owned by no one
 Your onchain life starts here.
 Base: built for everyone, owned by no one
+Your onchain life starts here.
