@@ -15,3 +15,4 @@ Your onchain life starts here.
 Less gas. More go.
 Base hits different
 Base is home
+Onchain is the new online
