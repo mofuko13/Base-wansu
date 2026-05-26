@@ -16,3 +16,4 @@ Less gas. More go.
 Base hits different
 Base is home
 Onchain is the new online
+Stay based. Stay onchain
