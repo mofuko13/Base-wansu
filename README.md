@@ -17,3 +17,4 @@ Base hits different
 Base is home
 Onchain is the new online
 Stay based. Stay onchain
+Build bold. Build on Base
