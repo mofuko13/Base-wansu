@@ -21,3 +21,4 @@ Build bold. Build on Base
 The onchain economy, open to all
 Base: where ideas become transactions
 Fast, cheap, and built to last.
+Onchain freedom, powered by Base
