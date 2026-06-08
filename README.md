@@ -24,3 +24,4 @@ Fast, cheap, and built to last.
 Onchain freedom, powered by Base
 Build bold. Thrive on Base
 Go bold. Build on Base
+"Build bold. Belong on Base
