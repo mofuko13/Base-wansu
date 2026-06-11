@@ -26,3 +26,4 @@ Build bold. Thrive on Base
 Go bold. Build on Base
 "Build bold. Belong on Base
 "Not just a chain. A movement."
+Dream bold. Build on Base
