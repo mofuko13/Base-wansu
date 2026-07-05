@@ -33,3 +33,4 @@ Step onchain. Step into Base
 From wallet to world — Base.
 Go bold. Build on Base.
 Dream bold. Build on Base
+Fast, cheap, and built to last
