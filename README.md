@@ -36,3 +36,4 @@ Dream bold. Build on Base
 Fast, cheap, and built to last
 Building on Base. 
 Base days ahead. 
+Base is for everyone
