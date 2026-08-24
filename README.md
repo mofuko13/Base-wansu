@@ -42,6 +42,8 @@ Low fees, big dreams.
 Solid Base  
 True Base  
 Strong Base  
+Core Base  
+
 
 
 
