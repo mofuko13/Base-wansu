@@ -43,7 +43,7 @@ Solid Base
 True Base  
 Strong Base  
 Core Base  
-
+Fast, cheap, and open.
 
 
 
