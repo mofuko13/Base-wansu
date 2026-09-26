@@ -44,6 +44,6 @@ True Base
 Strong Base  
 Core Base  
 Fast, cheap, and open.
-
+Where crypto goes mainstream.
 
 
